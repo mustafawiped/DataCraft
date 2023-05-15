@@ -1,4 +1,4 @@
-# ChatMRS
+# DataCraft
 
 Proje, yapay zeka algoritmalarını kullanarak farklı problemleri çözmek için geliştirilmiş bir yazılımdır.
 Bu projeyi yapma amacım yapay zeka algoritmalarının mantığını anlamak ve kendimi Python 'da geliştirmektir.
