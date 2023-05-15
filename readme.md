@@ -27,9 +27,6 @@ Notlar:
 - GAN'lerin eğitimi genellikle kararlı olmayabilir, deneme yanılma süreci gerektirebilir.
 - GAN modelleriyle oynamak ve değişiklikler yapmak cesaret gerektirebilir, sonuçlar değişebilir.
 
-Örnek Çıktı:
-![El Yazısı Rakam Örneği](example_output.png)
-
 Daha fazla bilgi ve detaylar için lütfen kod dosyasını inceleyin ve kaynak belirtmeyi unutmayın.
 
 ## 1. Sürüm
